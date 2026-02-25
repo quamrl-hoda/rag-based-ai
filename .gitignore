@@ -2,6 +2,12 @@
 __pycache__/
 *.py[codz]
 *$py.class
+# environment variables
+.env
+/ragai_env
+/whisper
+/videos
+/audios
 
 # C extensions
 *.so
