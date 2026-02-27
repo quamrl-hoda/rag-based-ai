@@ -1,0 +1,5 @@
+For your question about CSS in this course, I checked the video chunks.
+
+We cover CSS in two videos - 'Installing VS Code How Websites Work' (Video 1) and 'CSS Box Model - Margin Padding Borders' (Video 18). 
+
+In Video 18, 'CSS Box Model - Margin Padding Borders', we start at approximately 5 seconds.
